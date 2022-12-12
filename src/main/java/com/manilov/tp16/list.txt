@@ -1,0 +1,10 @@
+*Animals
+    *Wolf
+    *Cow
+    *Pig
+    *Dog
+*Fishes
+*Birds
+    *Parrot
+    *Vorona
+*Human
